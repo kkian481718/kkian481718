@@ -7,7 +7,7 @@
 </p>
 
 🎓 **MSc Computer Science (Data Analytics)** postgraduate student at the **University of Galway**, Ireland.  
-💼 Previously co-founded **Profound** (food-delivery coordination & proxy-purchasing handling 1,350+ orders).  
+💼 Co-founder of **[Profound](https://github.com/kkian481718/profound)** (food-delivery coordination & proxy-purchasing handling 1,350+ orders).  
 🚀 Passionate about full-stack engineering, workflow automation, cloud computing, and interactive applications.
 
 ---
@@ -16,6 +16,7 @@
 
 | Repository | Tech Stack | Highlights |
 |---|---|---|
+| 🍕 **[profound](https://github.com/kkian481718/profound)** | `Next.js` `TypeScript` `Supabase` `Tailwind` | Production food ordering & logistics coordination platform handling 1,350+ customer orders with 170+ orders/month. |
 | 🛫 **[EveryFly](https://github.com/kkian481718/EveryFly)** | `Python` `Amadeus API` `CI/CD` | Automated flight price radar and Discord alert bot running daily on GitHub Actions. |
 | ☁️ **[palbot](https://github.com/kkian481718/palbot)** | `Python` `GCP API` `Discord.py` | Cloud automation bot for on-demand VM start/stop cost saving management. |
 | 🏥 **[ksph_lovepark_new](https://github.com/kkian481718/ksph_lovepark_new)** | `Vue 3` `Vite` `Bootstrap 5` | Official production web application for Kaohsiung Municipal Kai-Syuan Psychiatric Hospital Love Garden. |
@@ -27,7 +28,7 @@
 ### 🛠️ Skills & Technologies
 
 - **Programming Languages:** Python, TypeScript, JavaScript, R, SQL, C#, Java, Pascal
-- **Frameworks & Libraries:** Vue 3, Next.js, React, NiceGUI, Playwright, Tailwind CSS, Bootstrap
+- **Frameworks & Libraries:** Next.js, Vue 3, React, NiceGUI, Playwright, Tailwind CSS, Bootstrap
 - **Databases & Cloud:** Google Cloud Platform (GCP), Supabase, Firebase, SQLite, PostgreSQL
 - **DevOps & Tooling:** Git / GitHub Actions, Docker, Linux, Discord API, Google Sheets Webhooks
 - **Languages:** Mandarin (Native), English (C1 / Fluent), German (A2), Japanese (A2)
