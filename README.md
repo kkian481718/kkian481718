@@ -1,12 +1,14 @@
 # Hi there, I'm Cheng-Kai (Miffy) 👋
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kkian481718&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Galway%2C%20Ireland%20%F0%9F%87%AE%F0%9F%87%AA-orange?style=flat" alt="Location" />
-  <img src="https://img.shields.io/badge/Scholarship-University%20of%20Galway%20Excellence%20Award%20%E2%82%AC10k-blue?style=flat" alt="Scholarship" />
+  <img src="https://img.shields.io/badge/Scholarship-UNI%20Galway%20Excellence%20Award%20%28%E2%82%AC10k%29-8B1A2B?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholarship" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Currently-Raining%20in%20Galway-5B7C99?style=for-the-badge&logo=rainmeter&logoColor=white" alt="Weather" />
+  <img src="https://img.shields.io/badge/Open%20to-%F0%9F%92%BC%20Work%20(and%20free%20food)-2ea043?style=for-the-badge" alt="Open to work" />
 </p>
 
-🎓 **MSc Computer Science (Data Analytics)** postgraduate student at the **University of Galway**, Ireland.  
+🎓 **CS (Data Analytics)** postgraduate student @**University of Galway**.  
 💼 Co-founder of **[Profound](https://github.com/kkian481718/profound)** (food-delivery coordination & proxy-purchasing handling 1,350+ orders).  
 🚀 Focused on applied LLM fine-tuning, full-stack systems, workflow automation, and cloud backend engineering.
 
@@ -27,16 +29,15 @@
 
 ### 🛠️ Skills & Technologies
 
-- **AI & Data Science:** PyTorch, Hugging Face (`transformers`, `peft`, `bitsandbytes`), LoRA / QLoRA, Fine-tuning, R, SQL
-- **Programming Languages:** Python, TypeScript, JavaScript, R, SQL, C#, Java, Pascal
-- **Frameworks & Libraries:** Next.js, Vue 3, React, NiceGUI, Playwright, Tailwind CSS, Bootstrap
-- **Databases & Cloud:** Google Cloud Platform (GCP), Supabase, Firebase, SQLite, PostgreSQL
-- **DevOps & Tooling:** Git / GitHub Actions, Docker, Linux, Discord API, Google Sheets Webhooks
-- **Languages:** Mandarin (Native), English (C1 / Fluent), German (A2), Japanese (A2)
+- **Daily drivers:** Python, SQL, TypeScript, Next.js, Supabase, Git
+- **Comfortable, will not cry:** PyTorch, Hugging Face (`transformers`, `peft`, `bitsandbytes`), LoRA / QLoRA, React, Vue 3, Tailwind CSS, PostgreSQL, Docker, GCP
+- **Have shipped something with it:** R, Java, C#, Firebase, SQLite, Playwright, NiceGUI, Discord API, Google Sheets Webhooks
+- **Legacy / nostalgia:** Pascal (yes, really)
+- **Human languages:** Mandarin (Native, no refunds), English (C1, accent included), German (A2, can order a beer), Japanese (A2, can order ramen)
 
 ---
 
 ### 📬 Get in Touch
-- 📍 **Location:** Galway, Ireland 🇮🇪
+- 📍 **Location:** Galway, Ireland
 - ✉️ **Academic Email:** `c.chang1@universityofgalway.ie`
 - 💬 Open to collaborations and tech discussions!
