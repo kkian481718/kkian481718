@@ -8,7 +8,7 @@
 
 🎓 **MSc Computer Science (Data Analytics)** postgraduate student at the **University of Galway**, Ireland.  
 💼 Previously co-founded **Profound** (food-delivery coordination & proxy-purchasing handling 1,350+ orders).  
-🚀 Passionate about full-stack engineering, workflow automation, cloud computing, and applied AI/LLM solutions.
+🚀 Passionate about full-stack engineering, workflow automation, cloud computing, and interactive applications.
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Repository | Tech Stack | Highlights |
 |---|---|---|
-| 🇮🇪 **[ireland-job-radar-copilot](https://github.com/kkian481718/ireland-job-radar-copilot)** | `Python` `NiceGUI` `Playwright` `LLM` | AI-assisted job radar & autopilot application tracker designed for Ireland job hunting (Stamp 1G / Stamp 2). |
 | 🛫 **[EveryFly](https://github.com/kkian481718/EveryFly)** | `Python` `Amadeus API` `CI/CD` | Automated flight price radar and Discord alert bot running daily on GitHub Actions. |
 | ☁️ **[palbot](https://github.com/kkian481718/palbot)** | `Python` `GCP API` `Discord.py` | Cloud automation bot for on-demand VM start/stop cost saving management. |
 | 🏥 **[ksph_lovepark_new](https://github.com/kkian481718/ksph_lovepark_new)** | `Vue 3` `Vite` `Bootstrap 5` | Official production web application for Kaohsiung Municipal Kai-Syuan Psychiatric Hospital Love Garden. |
+| 🎮 **[3D_Maze_Chasing](https://github.com/kkian481718/3D_Maze_Chasing)** | `Pascal` `Delphi 7` `3D Graphics` | First-person 3D maze chase and survival game built with custom 3D rendering and raycasting logic. |
 | 📱 **[GraviOtter](https://github.com/kkian481718/GraviOtter)** | `Python` `GitHub Codespaces` `Discord` | Remote coding assistant bridging mobile workflows with Antigravity AI agents. |
 
 ---
