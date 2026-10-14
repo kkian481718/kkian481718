@@ -8,7 +8,7 @@
 
 🎓 **MSc Computer Science (Data Analytics)** postgraduate student at the **University of Galway**, Ireland.  
 💼 Co-founder of **[Profound](https://github.com/kkian481718/profound)** (food-delivery coordination & proxy-purchasing handling 1,350+ orders).  
-🚀 Passionate about full-stack engineering, workflow automation, cloud computing, and interactive applications.
+🚀 Focused on applied LLM fine-tuning, full-stack systems, workflow automation, and cloud backend engineering.
 
 ---
 
@@ -16,17 +16,18 @@
 
 | Repository | Tech Stack | Highlights |
 |---|---|---|
+| 🧠 **[REBOOT-Qwen-7B](https://github.com/kkian481718/REBOOT-Qwen-7B)** | `PyTorch` `LoRA` `Qwen 2.5` `PEFT` | Parameter-efficient fine-tuning (PEFT/LoRA) pipeline on Qwen-7B for multi-persona game NPC dialogue & Discord/Unreal Engine interop. |
 | 🍕 **[profound](https://github.com/kkian481718/profound)** | `Next.js` `TypeScript` `Supabase` `Tailwind` | Production food ordering & logistics coordination platform handling 1,350+ customer orders with 170+ orders/month. |
 | 🛫 **[EveryFly](https://github.com/kkian481718/EveryFly)** | `Python` `Amadeus API` `CI/CD` | Automated flight price radar and Discord alert bot running daily on GitHub Actions. |
 | ☁️ **[palbot](https://github.com/kkian481718/palbot)** | `Python` `GCP API` `Discord.py` | Cloud automation bot for on-demand VM start/stop cost saving management. |
 | 🏥 **[ksph_lovepark_new](https://github.com/kkian481718/ksph_lovepark_new)** | `Vue 3` `Vite` `Bootstrap 5` | Official production web application for Kaohsiung Municipal Kai-Syuan Psychiatric Hospital Love Garden. |
 | 🎮 **[3D_Maze_Chasing](https://github.com/kkian481718/3D_Maze_Chasing)** | `Pascal` `Delphi 7` `3D Graphics` | First-person 3D maze chase and survival game built with custom 3D rendering and raycasting logic. |
-| 📱 **[GraviOtter](https://github.com/kkian481718/GraviOtter)** | `Python` `GitHub Codespaces` `Discord` | Remote coding assistant bridging mobile workflows with Antigravity AI agents. |
 
 ---
 
 ### 🛠️ Skills & Technologies
 
+- **AI & Data Science:** PyTorch, Hugging Face (`transformers`, `peft`, `bitsandbytes`), LoRA / QLoRA, Fine-tuning, R, SQL
 - **Programming Languages:** Python, TypeScript, JavaScript, R, SQL, C#, Java, Pascal
 - **Frameworks & Libraries:** Next.js, Vue 3, React, NiceGUI, Playwright, Tailwind CSS, Bootstrap
 - **Databases & Cloud:** Google Cloud Platform (GCP), Supabase, Firebase, SQLite, PostgreSQL
